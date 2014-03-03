@@ -1,0 +1,1 @@
+<rule name="Break_Ally" type="Initialization_Rule"><socialcondition>Break_Ally_Social_Condition</socialcondition><storymodification>Break_Ally_Story_Modification</storymodification></rule>

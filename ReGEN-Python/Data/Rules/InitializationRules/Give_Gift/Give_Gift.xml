@@ -1,0 +1,1 @@
+<rule name="Give_Gift" type="Initialization_Rule"><socialcondition>Give_Gift_Social_Condition</socialcondition><storymodification>Give_Gift_Story_Modification</storymodification></rule>

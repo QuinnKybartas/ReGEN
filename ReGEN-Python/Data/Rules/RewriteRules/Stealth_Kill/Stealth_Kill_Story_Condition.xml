@@ -1,0 +1,1 @@
+<graph name="StKill_Story_Condition" type="Story_Graph"><nodes><node modification="None" name="Fight_Monster"><target>Monster</target><nodetype>Fight</nodetype></node></nodes><connections /></graph>

@@ -1,0 +1,1 @@
+<graph name="Ambush_Social_Condition" type="Social_Graph"><nodes><node name="Recipient"><attr name="alive" type="bool"><value>True</value></attr></node><node name="Lover"><attr name="alive" type="bool"><value>True</value></attr></node></nodes><connections><connection from="Lover" to="Recipient"><relation Loves="N/A" /></connection></connections></graph>

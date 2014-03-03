@@ -1,0 +1,16 @@
+<test name="My_Test" save_output="True">
+	<socialgraph>Fantasy_World_Improved_Autogen</socialgraph>
+	<initializationrules>
+		<initializationrule>Give_Gift</initializationrule>
+	</initializationrules>
+	<rewriterules>
+		<rewriterule>Stolen_Gift</rewriterule>
+	</rewriterules>
+	<numstoriestogenerate>1</numstoriestogenerate>
+	<maxnumberofrewrites>2</maxnumberofrewrites>
+	<metricstooptimize>
+		<metric weight="5" name="longest_path"></metric>
+	</metricstooptimize>
+	<metricstoanalyze>
+		<metric name="longest_path"></metric>
+		<metric name="highest_cost"></metric></metricstoanalyze></test>

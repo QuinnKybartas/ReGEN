@@ -1,0 +1,1 @@
+<graph name="Ambush_By_Hater_Social_Condition" type="Social_Graph"><nodes><node name="Recipient"><attr name="alive" type="bool"><value>True</value></attr></node><node name="Hater"><attr name="alive" type="bool"><value>True</value></attr></node></nodes><connections><connection from="Hater" to="Recipient"><relation Hates="N/A" /></connection></connections></graph>

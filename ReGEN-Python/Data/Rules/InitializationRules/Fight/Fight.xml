@@ -1,0 +1,1 @@
+<rule name="Fight" type="Initialization_Rule"><socialcondition>Fight_Social_Condition</socialcondition><storymodification>Fight_Story_Modification</storymodification></rule>

@@ -1,0 +1,1 @@
+<rule applyonce="false" name="More_Fight" type="Rewrite_Rule"><socialcondition>More_Fight_Social_Condition</socialcondition><storycondition>More_Fight_Story_Condition</storycondition><storymodification>More_Fight_Story_Modification</storymodification></rule>

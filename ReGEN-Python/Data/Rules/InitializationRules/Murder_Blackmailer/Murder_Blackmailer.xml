@@ -1,0 +1,1 @@
+<rule name="Murder_Blackmailer" type="Initialization_Rule"><socialcondition>Murder_Blackmailer_Social_Condition</socialcondition><storymodification>Murder_Blackmailer_Story_Modification</storymodification></rule>

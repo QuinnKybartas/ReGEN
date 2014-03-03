@@ -1,0 +1,1 @@
+<rule applyonce="true" name="Spare" type="Rewrite_Rule"><socialcondition>Spare_Social_Condition</socialcondition><storycondition>Spare_Story_Condition</storycondition><storymodification>Spare_Story_Modification</storymodification></rule>

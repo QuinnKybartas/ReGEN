@@ -1,0 +1,1 @@
+<rule applyonce="true" name="Ambush_By_Hater" type="Rewrite_Rule"><socialcondition>Ambush_By_Hater_Social_Condition</socialcondition><storycondition>Ambush_By_Hater_Story_Condition</storycondition><storymodification>Ambush_By_Hater_Story_Modification</storymodification></rule>

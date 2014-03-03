@@ -1,0 +1,1 @@
+<rule applyonce="false" name="Encounter" type="Rewrite_Rule"><socialcondition>Encounter_Social_Condition</socialcondition><storycondition>Encounter_Story_Condition</storycondition><storymodification>Encounter_Story_Modification</storymodification></rule>

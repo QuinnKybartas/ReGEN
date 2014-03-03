@@ -1,0 +1,1 @@
+<rule applyonce="true" name="Stealth_Kill" type="Rewrite_Rule"><socialcondition>Stealth_Kill_Social_Condition</socialcondition><storycondition>Stealth_Kill_Story_Condition</storycondition><storymodification>Stealth_Kill_Story_Modification</storymodification></rule>

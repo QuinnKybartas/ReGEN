@@ -1,0 +1,1936 @@
+<?xml version="1.0" ?>
+<graph name="Fantasy_World">
+	<nodes>
+		<node name="Regal_Regis">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Regal_Regis</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>King</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>King</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Fancy_Fanny">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Fancy_Fanny</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Queen</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Smug_Smith">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Smug_Smith</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Lord</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Brave_Dave">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Brave_Dave</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Knight</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Rich_Ritchie">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Rich_Ritchie</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Tax_Collector</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Filthy_Phil">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Filthy_Phil</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Stable_Hand</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Stitching_Sally">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Stitching_Sally</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Tailor</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Sly_Fry">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Sly_Fry</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Thief</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Pretty_Penelope">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Pretty_Penelope</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Lady</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Vile_Victor">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Vile_Victor</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Wizard</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Large_Marge">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Large_Marge</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Coach_Driver</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Merciful_Mary">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Merciful_Mary</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Healer</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Dutiful_Diane">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Dutiful_Diane</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Servant</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Eccentric_Elsa">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Eccentric_Elsa</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Inventor</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Creative_Carrie">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Creative_Carrie</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Artist</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Swindler_Sue">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Swindler_Sue</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Trader</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Tipsy_Todd">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Tipsy_Todd</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Pub_Owner</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Grimy_Garrett">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Grimy_Garrett</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Farmer</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Flirty_Fran">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Flirty_Fran</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Wench</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Corrupt_Charles">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Corrupt_Charles</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Mayor</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Dashing_Deborah">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Dashing_Deborah</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Adventurer</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Jovial_Jeeves">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Jovial_Jeeves</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Butler</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Portly_Polly">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Portly_Polly</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Baker</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Thrifty_Tracy">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Thrifty_Tracy</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Merchant</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Pristine_Prudence">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Pristine_Prudence</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Librarian</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Father_Felonius">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Father_Felonius</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Priest</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Merry_Mark">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Merry_Mark</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Bard</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Brutish_Brutus">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Brutish_Brutus</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Highwayman</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Steely_Sven">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Steely_Sven</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Blacksmith</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Flowery_Florence">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Flowery_Florence</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Alchemist</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Stealthy_Sofia">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Stealthy_Sofia</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Assassin</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Disturbed_Darius">
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Disturbed_Darius</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Executioner</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Orcs">
+			<attr name="type" type="str">
+				<value>Enemy</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Orcs</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Soldier</value>
+			</attr>
+			<attr name="number" type="int">
+				<value>3</value>
+			</attr>
+		</node>
+		<node name="Goblins">
+			<attr name="type" type="str">
+				<value>Enemy</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Goblins</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Peon</value>
+			</attr>
+			<attr name="number" type="int">
+				<value>3</value>
+			</attr>
+		</node>
+		<node name="Goblin_King">
+			<attr name="type" type="str">
+				<value>Boss</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Goblin_King</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>King</value>
+			</attr>
+			<attr name="number" type="int">
+				<value>1</value>
+			</attr>
+		</node>
+		<node name="Bandits">
+			<attr name="type" type="str">
+				<value>Enemy</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Bandits</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Thieves</value>
+			</attr>
+			<attr name="number" type="int">
+				<value>3</value>
+			</attr>
+		</node>
+		<node name="Royal_Sceptre">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Royal_Sceptre</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>30000</value>
+			</attr>
+		</node>
+		<node name="Royal_Crown">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Royal_Crown</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>50000</value>
+			</attr>
+		</node>
+		<node name="Tax_Income">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Tax_Income</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>500</value>
+			</attr>
+		</node>
+		<node name="Excalibur">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Excalibur</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>1000000</value>
+			</attr>
+		</node>
+		<node name="Golden_Mirror">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Golden_Mirror</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>10000</value>
+			</attr>
+		</node>
+		<node name="Mysterious_Artifact">
+			<attr name="status" type="str">
+				<value>Lost</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Mysterious_Artifact</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>3000</value>
+			</attr>
+		</node>
+		<node name="Dirty_Shovel">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Dirty_Shovel</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>1</value>
+			</attr>
+		</node>
+		<node name="Royal_Castle">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Royal_Castle</value>
+			</attr>
+		</node>
+		<node name="Upper_Town">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Upper_Town</value>
+			</attr>
+		</node>
+		<node name="Wealthy_Shops">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Wealthy_Shops</value>
+			</attr>
+		</node>
+		<node name="Mansion">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Mansion</value>
+			</attr>
+		</node>
+		<node name="Church">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Church</value>
+			</attr>
+		</node>
+		<node name="Center_Town">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Center_Town</value>
+			</attr>
+		</node>
+		<node name="Slums">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Slums</value>
+			</attr>
+		</node>
+		<node name="Marketplace">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Marketplace</value>
+			</attr>
+		</node>
+		<node name="Guildhall">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Guildhall</value>
+			</attr>
+		</node>
+		<node name="Forest">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Forest</value>
+			</attr>
+		</node>
+		<node name="Pub">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Pub</value>
+			</attr>
+		</node>
+		<node name="Farm">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Farm</value>
+			</attr>
+		</node>
+		<node name="Bandit_Camp">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Bandit_Camp</value>
+			</attr>
+		</node>
+		<node name="Desert">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Desert</value>
+			</attr>
+		</node>
+		<node name="Abandoned_City">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Abandoned_City</value>
+			</attr>
+		</node>
+		<node name="Orc_City">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Orc_City</value>
+			</attr>
+		</node>
+		<node name="Goblin_City">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Goblin_City</value>
+			</attr>
+		</node>
+		<node name="Darklands">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Darklands</value>
+			</attr>
+		</node>
+		<node name="Wizards_Lair">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Wizards_Lair</value>
+			</attr>
+		</node>
+		<node name="Player">
+			<attr name="type" type="str">
+				<value>Player</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Player</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Adventurer</value>
+			</attr>
+		</node>
+	</nodes>
+	<connections>
+		<connection from="Royal_Castle" to="Upper_Town">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Upper_Town" to="Royal_Castle">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Upper_Town" to="Mansion">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Mansion" to="Upper_Town">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Wealthy_Shops" to="Upper_Town">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Upper_Town" to="Wealthy_Shops">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Wealthy_Shops" to="Church">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Church" to="Wealthy_Shops">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Upper_Town" to="Center_Town">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Center_Town" to="Upper_Town">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Center_Town" to="Slums">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Slums" to="Center_Town">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Marketplace" to="Center_Town">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Center_Town" to="Marketplace">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Marketplace" to="Guildhall">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Guildhall" to="Marketplace">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Center_Town" to="Forest">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Forest" to="Center_Town">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Forest" to="Pub">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Pub" to="Forest">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Pub" to="Farm">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Farm" to="Pub">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Forest" to="Bandit_Camp">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Bandit_Camp" to="Forest">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Forest" to="Desert">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Desert" to="Forest">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Desert" to="Orc_City">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Orc_City" to="Desert">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Desert" to="Abandoned_City">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Abandoned_City" to="Desert">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Desert" to="Goblin_City">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Goblin_City" to="Desert">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Goblin_City" to="Darklands">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Darklands" to="Goblin_City">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Darklands" to="Wizards_Lair">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Wizards_Lair" to="Darklands">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Merry_Mark" to="Pub">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Pub">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Pub">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Royal_Castle">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Regal_Regis" to="Royal_Castle">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Royal_Castle">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Royal_Castle">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Mansion">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Smug_Smith" to="Mansion">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Vile_Victor" to="Wizards_Lair">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Marketplace">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Large_Marge" to="Center_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Wealthy_Shops">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Abandoned_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Slums">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Marketplace">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Farm">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Sly_Fry" to="Slums">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Upper_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Guildhall">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Portly_Polly" to="Marketplace">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Marketplace">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Upper_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Brave_Dave" to="Guildhall">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Upper_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Father_Felonius" to="Church">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Bandit_Camp">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Steely_Sven" to="Guildhall">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Farm">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Wealthy_Shops">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Abandoned_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Center_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Bandit_Camp">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Bandit_Camp">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Forest">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Royal_Castle">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Upper_Town">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Wealthy_Shops">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Mansion">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Church">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Center_Town">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Slums">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Marketplace">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Guildhall">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Orc_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Orc_City">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Desert">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Darklands">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Wizards_Lair">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Goblin_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Goblin_City">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Farm">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Pub">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Abandoned_City">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblin_King" to="Goblin_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Golden_Mirror">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Dirty_Shovel">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Regal_Regis" to="Royal_Crown">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Regal_Regis" to="Royal_Sceptre">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Brave_Dave" to="Excalibur">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Tax_Income">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Player" to="Center_Town">
+			<relation Currently_In="N/A"/>
+		</connection>
+		<connection from="Mysterious_Artifact" to="Abandoned_City">
+			<relation Currently_In="N/A"/>
+		</connection>
+	</connections>
+</graph>

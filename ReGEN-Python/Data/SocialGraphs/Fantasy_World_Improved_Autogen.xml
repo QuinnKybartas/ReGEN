@@ -1,0 +1,4420 @@
+<?xml version="1.0" ?>
+<graph name="Fantasy_World" type="Social_Graph">
+	<nodes>
+		<node name="Regal_Regis">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Regal_Regis</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>King</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Fancy_Fanny">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Fancy_Fanny</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Queen</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Smug_Smith">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Smug_Smith</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Lord</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Brave_Dave">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Brave_Dave</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Knight</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Rich_Ritchie">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Rich_Ritchie</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Tax_Collector</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Filthy_Phil">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Filthy_Phil</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Stable_Hand</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Stitching_Sally">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Stitching_Sally</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Tailor</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Sly_Fry">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Sly_Fry</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Thief</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Pretty_Penelope">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Pretty_Penelope</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Lady</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Vile_Victor">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Vile_Victor</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Wizard</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Large_Marge">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Large_Marge</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Coach_Driver</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Merciful_Mary">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Merciful_Mary</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Healer</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Dutiful_Diane">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Dutiful_Diane</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Servant</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Eccentric_Elsa">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Eccentric_Elsa</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Inventor</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Creative_Carrie">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Creative_Carrie</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Artist</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Swindler_Sue">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Swindler_Sue</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Trader</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Tipsy_Todd">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Tipsy_Todd</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Pub_Owner</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Grimy_Garrett">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Grimy_Garrett</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Farmer</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Flirty_Fran">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Flirty_Fran</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Wench</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Corrupt_Charles">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Corrupt_Charles</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Mayor</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Dashing_Deborah">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Dashing_Deborah</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Adventurer</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Jovial_Jeeves">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Jovial_Jeeves</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Butler</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Portly_Polly">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Portly_Polly</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Good</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Baker</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Thrifty_Tracy">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Thrifty_Tracy</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Merchant</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Pristine_Prudence">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Pristine_Prudence</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Librarian</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Father_Felonius">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Father_Felonius</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Priest</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Rich</value>
+			</attr>
+		</node>
+		<node name="Merry_Mark">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Merry_Mark</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Bard</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Brutish_Brutus">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Brutish_Brutus</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Highwayman</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Chaotic</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Poor</value>
+			</attr>
+		</node>
+		<node name="Steely_Sven">
+			<attr name="extraverted" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Steely_Sven</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Blacksmith</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Flowery_Florence">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Flowery_Florence</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Alchemist</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Stealthy_Sofia">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Stealthy_Sofia</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Assassin</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Neutral</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Wealthy</value>
+			</attr>
+		</node>
+		<node name="Disturbed_Darius">
+			<attr name="extraverted" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Disturbed_Darius</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>NPC</value>
+			</attr>
+			<attr name="alignment_gne" type="str">
+				<value>Evil</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Executioner</value>
+			</attr>
+			<attr name="neurotic" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="alive" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="alignment_lnc" type="str">
+				<value>Lawful</value>
+			</attr>
+			<attr name="conscientious" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="agreeable" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="male" type="bool">
+				<value>True</value>
+			</attr>
+			<attr name="open" type="bool">
+				<value>False</value>
+			</attr>
+			<attr name="wealth" type="str">
+				<value>Mid</value>
+			</attr>
+		</node>
+		<node name="Orcs">
+			<attr name="type" type="str">
+				<value>Enemy</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Orcs</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Soldier</value>
+			</attr>
+			<attr name="number" type="int">
+				<value>3</value>
+			</attr>
+		</node>
+		<node name="Goblins">
+			<attr name="type" type="str">
+				<value>Enemy</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Goblins</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Peon</value>
+			</attr>
+			<attr name="number" type="int">
+				<value>3</value>
+			</attr>
+		</node>
+		<node name="Goblin_King">
+			<attr name="type" type="str">
+				<value>Boss</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Goblin_King</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>King</value>
+			</attr>
+			<attr name="number" type="int">
+				<value>1</value>
+			</attr>
+		</node>
+		<node name="Bandits">
+			<attr name="type" type="str">
+				<value>Enemy</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Bandits</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Thieves</value>
+			</attr>
+			<attr name="number" type="int">
+				<value>3</value>
+			</attr>
+		</node>
+		<node name="Royal_Sceptre">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Royal_Sceptre</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>30000</value>
+			</attr>
+		</node>
+		<node name="Royal_Crown">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Royal_Crown</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>50000</value>
+			</attr>
+		</node>
+		<node name="Tax_Income">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Tax_Income</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>500</value>
+			</attr>
+		</node>
+		<node name="Excalibur">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Excalibur</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>1000000</value>
+			</attr>
+		</node>
+		<node name="Golden_Mirror">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Golden_Mirror</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>10000</value>
+			</attr>
+		</node>
+		<node name="Mysterious_Artifact">
+			<attr name="status" type="str">
+				<value>Lost</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Mysterious_Artifact</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>3000</value>
+			</attr>
+		</node>
+		<node name="Dirty_Shovel">
+			<attr name="status" type="str">
+				<value>Owned</value>
+			</attr>
+			<attr name="type" type="str">
+				<value>Object</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Dirty_Shovel</value>
+			</attr>
+			<attr name="value" type="int">
+				<value>1</value>
+			</attr>
+		</node>
+		<node name="Royal_Castle">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Royal_Castle</value>
+			</attr>
+		</node>
+		<node name="Upper_Town">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Upper_Town</value>
+			</attr>
+		</node>
+		<node name="Wealthy_Shops">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Wealthy_Shops</value>
+			</attr>
+		</node>
+		<node name="Mansion">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Mansion</value>
+			</attr>
+		</node>
+		<node name="Church">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Church</value>
+			</attr>
+		</node>
+		<node name="Center_Town">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Center_Town</value>
+			</attr>
+		</node>
+		<node name="Slums">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Slums</value>
+			</attr>
+		</node>
+		<node name="Marketplace">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Marketplace</value>
+			</attr>
+		</node>
+		<node name="Guildhall">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Guildhall</value>
+			</attr>
+		</node>
+		<node name="Forest">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Forest</value>
+			</attr>
+		</node>
+		<node name="Pub">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Pub</value>
+			</attr>
+		</node>
+		<node name="Farm">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Farm</value>
+			</attr>
+		</node>
+		<node name="Bandit_Camp">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Bandit_Camp</value>
+			</attr>
+		</node>
+		<node name="Desert">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Desert</value>
+			</attr>
+		</node>
+		<node name="Abandoned_City">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Abandoned_City</value>
+			</attr>
+		</node>
+		<node name="Orc_City">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Orc_City</value>
+			</attr>
+		</node>
+		<node name="Goblin_City">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Goblin_City</value>
+			</attr>
+		</node>
+		<node name="Darklands">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Darklands</value>
+			</attr>
+		</node>
+		<node name="Wizards_Lair">
+			<attr name="type" type="str">
+				<value>Location</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Wizards_Lair</value>
+			</attr>
+		</node>
+		<node name="Player">
+			<attr name="type" type="str">
+				<value>Player</value>
+			</attr>
+			<attr name="name" type="str">
+				<value>Player</value>
+			</attr>
+			<attr name="rank" type="str">
+				<value>Adventurer</value>
+			</attr>
+		</node>
+	</nodes>
+	<connections>
+		<connection from="Royal_Castle" to="Upper_Town">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Upper_Town" to="Royal_Castle">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Upper_Town" to="Mansion">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Mansion" to="Upper_Town">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Wealthy_Shops" to="Upper_Town">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Upper_Town" to="Wealthy_Shops">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Wealthy_Shops" to="Church">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Church" to="Wealthy_Shops">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Upper_Town" to="Center_Town">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Center_Town" to="Upper_Town">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Center_Town" to="Slums">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Slums" to="Center_Town">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Marketplace" to="Center_Town">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Center_Town" to="Marketplace">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Marketplace" to="Guildhall">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Guildhall" to="Marketplace">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Center_Town" to="Forest">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Forest" to="Center_Town">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Forest" to="Pub">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Pub" to="Forest">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Pub" to="Farm">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Farm" to="Pub">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Forest" to="Bandit_Camp">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Bandit_Camp" to="Forest">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Forest" to="Desert">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Desert" to="Forest">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Desert" to="Orc_City">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Orc_City" to="Desert">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Desert" to="Abandoned_City">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Abandoned_City" to="Desert">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Desert" to="Goblin_City">
+			<relation Connects="West"/>
+		</connection>
+		<connection from="Goblin_City" to="Desert">
+			<relation Connects="East"/>
+		</connection>
+		<connection from="Goblin_City" to="Darklands">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Darklands" to="Goblin_City">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Darklands" to="Wizards_Lair">
+			<relation Connects="North"/>
+		</connection>
+		<connection from="Wizards_Lair" to="Darklands">
+			<relation Connects="South"/>
+		</connection>
+		<connection from="Merry_Mark" to="Pub">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Pub">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Pub">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Royal_Castle">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Regal_Regis" to="Royal_Castle">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Royal_Castle">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Royal_Castle">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Mansion">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Smug_Smith" to="Mansion">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Vile_Victor" to="Wizards_Lair">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Marketplace">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Large_Marge" to="Center_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Wealthy_Shops">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Abandoned_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Slums">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Marketplace">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Farm">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Sly_Fry" to="Slums">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Upper_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Guildhall">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Portly_Polly" to="Marketplace">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Marketplace">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Upper_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Brave_Dave" to="Guildhall">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Upper_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Father_Felonius" to="Church">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Bandit_Camp">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Steely_Sven" to="Guildhall">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Farm">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Wealthy_Shops">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Abandoned_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Center_Town">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Bandit_Camp">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Bandit_Camp">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Forest">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Royal_Castle">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Upper_Town">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Wealthy_Shops">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Mansion">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Church">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Center_Town">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Slums">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Marketplace">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Bandits" to="Guildhall">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Orc_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Orc_City">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Desert">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Darklands">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Orcs" to="Wizards_Lair">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Goblin_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Goblin_City">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Farm">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Pub">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblins" to="Abandoned_City">
+			<relation Targets="N/A"/>
+		</connection>
+		<connection from="Goblin_King" to="Goblin_City">
+			<relation Lives="N/A"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Golden_Mirror">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Dirty_Shovel">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Regal_Regis" to="Royal_Crown">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Regal_Regis" to="Royal_Sceptre">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Brave_Dave" to="Excalibur">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Tax_Income">
+			<relation Owns="N/A"/>
+		</connection>
+		<connection from="Player" to="Center_Town">
+			<relation Currently_In="N/A"/>
+		</connection>
+		<connection from="Mysterious_Artifact" to="Abandoned_City">
+			<relation Currently_In="N/A"/>
+		</connection>
+		<connection from="Regal_Regis" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Rich_Ritchie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Filthy_Phil">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Stitching_Sally">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Large_Marge">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Creative_Carrie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Grimy_Garrett">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Flirty_Fran">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Portly_Polly">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Thrifty_Tracy">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Father_Felonius">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Regal_Regis" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Smug_Smith">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Filthy_Phil">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Stitching_Sally">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Pretty_Penelope">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Vile_Victor">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Large_Marge">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Creative_Carrie">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Swindler_Sue">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Flirty_Fran">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Jovial_Jeeves">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Portly_Polly">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Thrifty_Tracy">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Brutish_Brutus">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Fancy_Fanny" to="Disturbed_Darius">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Rich_Ritchie">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Stitching_Sally">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Sly_Fry">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Pretty_Penelope">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Dutiful_Diane">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Creative_Carrie">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Swindler_Sue">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Tipsy_Todd">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Flirty_Fran">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Dashing_Deborah">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Portly_Polly">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Pristine_Prudence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Merry_Mark">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Brutish_Brutus">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Steely_Sven">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Flowery_Florence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Smug_Smith" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Rich_Ritchie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Merciful_Mary">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Creative_Carrie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Swindler_Sue">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Flirty_Fran">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Portly_Polly">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Pristine_Prudence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Father_Felonius">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Flowery_Florence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Brave_Dave" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Fancy_Fanny">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Smug_Smith">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Dutiful_Diane">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Creative_Carrie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Swindler_Sue">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Grimy_Garrett">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Flirty_Fran">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Thrifty_Tracy">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Pristine_Prudence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Father_Felonius">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Brutish_Brutus">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Stealthy_Sofia">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Rich_Ritchie" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Fancy_Fanny">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Rich_Ritchie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Stitching_Sally">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Dutiful_Diane">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Swindler_Sue">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Grimy_Garrett">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Pristine_Prudence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Brutish_Brutus">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Flowery_Florence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Stealthy_Sofia">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Filthy_Phil" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Regal_Regis">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Smug_Smith">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Filthy_Phil">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Pretty_Penelope">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Vile_Victor">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Eccentric_Elsa">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Swindler_Sue">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Tipsy_Todd">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Grimy_Garrett">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Dashing_Deborah">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Portly_Polly">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Thrifty_Tracy">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Pristine_Prudence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Father_Felonius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Brutish_Brutus">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stitching_Sally" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Smug_Smith">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Merciful_Mary">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Grimy_Garrett">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Dashing_Deborah">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Jovial_Jeeves">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Thrifty_Tracy">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Flowery_Florence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Sly_Fry" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Fancy_Fanny">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Smug_Smith">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Filthy_Phil">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Stitching_Sally">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Merciful_Mary">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Portly_Polly">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Stealthy_Sofia">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Pretty_Penelope" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Fancy_Fanny">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Rich_Ritchie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Filthy_Phil">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Stitching_Sally">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Dutiful_Diane">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Swindler_Sue">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Grimy_Garrett">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Thrifty_Tracy">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Pristine_Prudence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Brutish_Brutus">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Flowery_Florence">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Vile_Victor" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Fancy_Fanny">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Rich_Ritchie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Merciful_Mary">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Dutiful_Diane">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Swindler_Sue">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Grimy_Garrett">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Pristine_Prudence">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Brutish_Brutus">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Large_Marge" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Smug_Smith">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Brave_Dave">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Stitching_Sally">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Sly_Fry">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Pretty_Penelope">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Large_Marge">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Eccentric_Elsa">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Swindler_Sue">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Dashing_Deborah">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Portly_Polly">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Father_Felonius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Brutish_Brutus">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Flowery_Florence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merciful_Mary" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Rich_Ritchie">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Filthy_Phil">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Stitching_Sally">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Vile_Victor">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Large_Marge">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Eccentric_Elsa">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Creative_Carrie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Swindler_Sue">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Flirty_Fran">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Corrupt_Charles">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Dashing_Deborah">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Jovial_Jeeves">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Thrifty_Tracy">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Father_Felonius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Merry_Mark">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Brutish_Brutus">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Steely_Sven">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Stealthy_Sofia">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dutiful_Diane" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Rich_Ritchie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Filthy_Phil">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Stitching_Sally">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Merciful_Mary">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Dutiful_Diane">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Creative_Carrie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Flirty_Fran">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Dashing_Deborah">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Jovial_Jeeves">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Father_Felonius">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Brutish_Brutus">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Eccentric_Elsa" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Fancy_Fanny">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Smug_Smith">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Dutiful_Diane">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Swindler_Sue">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Grimy_Garrett">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Pristine_Prudence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Father_Felonius">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Brutish_Brutus">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Creative_Carrie" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Smug_Smith">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Brave_Dave">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Filthy_Phil">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Stitching_Sally">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Vile_Victor">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Large_Marge">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Creative_Carrie">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Tipsy_Todd">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Flirty_Fran">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Corrupt_Charles">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Dashing_Deborah">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Jovial_Jeeves">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Thrifty_Tracy">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Pristine_Prudence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Brutish_Brutus">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Stealthy_Sofia">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Swindler_Sue" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Smug_Smith">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Filthy_Phil">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Stitching_Sally">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Large_Marge">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Swindler_Sue">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Dashing_Deborah">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Jovial_Jeeves">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Pristine_Prudence">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Tipsy_Todd" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Regal_Regis">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Smug_Smith">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Filthy_Phil">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Sly_Fry">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Large_Marge">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Creative_Carrie">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Swindler_Sue">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Flirty_Fran">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Corrupt_Charles">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Dashing_Deborah">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Jovial_Jeeves">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Brutish_Brutus">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Flowery_Florence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Stealthy_Sofia">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Grimy_Garrett" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Fancy_Fanny">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Smug_Smith">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Dutiful_Diane">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Swindler_Sue">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Grimy_Garrett">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Pristine_Prudence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Father_Felonius">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Brutish_Brutus">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flirty_Fran" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Fancy_Fanny">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Rich_Ritchie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Dutiful_Diane">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Swindler_Sue">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Grimy_Garrett">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Dashing_Deborah">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Jovial_Jeeves">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Portly_Polly">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Pristine_Prudence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Brutish_Brutus">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Stealthy_Sofia">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Corrupt_Charles" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Fancy_Fanny">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Smug_Smith">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Stitching_Sally">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Sly_Fry">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Eccentric_Elsa">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Swindler_Sue">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Tipsy_Todd">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Corrupt_Charles">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Jovial_Jeeves">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Pristine_Prudence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Father_Felonius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Brutish_Brutus">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Flowery_Florence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Stealthy_Sofia">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Dashing_Deborah" to="Disturbed_Darius">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Fancy_Fanny">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Rich_Ritchie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Vile_Victor">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Large_Marge">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Dutiful_Diane">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Swindler_Sue">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Grimy_Garrett">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Dashing_Deborah">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Portly_Polly">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Thrifty_Tracy">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Pristine_Prudence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Brutish_Brutus">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Jovial_Jeeves" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Regal_Regis">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Smug_Smith">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Brave_Dave">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Stitching_Sally">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Pretty_Penelope">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Dutiful_Diane">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Swindler_Sue">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Grimy_Garrett">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Corrupt_Charles">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Jovial_Jeeves">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Thrifty_Tracy">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Father_Felonius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Merry_Mark">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Brutish_Brutus">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Steely_Sven">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Flowery_Florence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Portly_Polly" to="Stealthy_Sofia">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Regal_Regis">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Rich_Ritchie">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Filthy_Phil">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Stitching_Sally">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Sly_Fry">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Vile_Victor">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Large_Marge">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Creative_Carrie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Swindler_Sue">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Grimy_Garrett">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Flirty_Fran">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Jovial_Jeeves">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Portly_Polly">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Father_Felonius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Brutish_Brutus">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Flowery_Florence">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Stealthy_Sofia">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Thrifty_Tracy" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Brave_Dave">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Rich_Ritchie">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Filthy_Phil">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Large_Marge">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Creative_Carrie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Swindler_Sue">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Tipsy_Todd">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Flirty_Fran">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Jovial_Jeeves">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Portly_Polly">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Thrifty_Tracy">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Father_Felonius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Brutish_Brutus">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Flowery_Florence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Stealthy_Sofia">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Pristine_Prudence" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Regal_Regis">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Fancy_Fanny">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Brave_Dave">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Rich_Ritchie">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Stitching_Sally">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Eccentric_Elsa">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Creative_Carrie">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Swindler_Sue">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Grimy_Garrett">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Flirty_Fran">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Dashing_Deborah">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Portly_Polly">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Thrifty_Tracy">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Brutish_Brutus">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Flowery_Florence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Stealthy_Sofia">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Father_Felonius" to="Disturbed_Darius">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Smug_Smith">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Large_Marge">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Dutiful_Diane">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Portly_Polly">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Brutish_Brutus">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Flowery_Florence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Merry_Mark" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Fancy_Fanny">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Smug_Smith">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Filthy_Phil">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Large_Marge">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Dutiful_Diane">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Eccentric_Elsa">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Creative_Carrie">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Swindler_Sue">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Flirty_Fran">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Dashing_Deborah">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Jovial_Jeeves">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Portly_Polly">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Thrifty_Tracy">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Father_Felonius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Merry_Mark">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Steely_Sven">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Flowery_Florence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Stealthy_Sofia">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Brutish_Brutus" to="Disturbed_Darius">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Smug_Smith">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Rich_Ritchie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Pretty_Penelope">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Large_Marge">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Dutiful_Diane">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Creative_Carrie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Flirty_Fran">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Corrupt_Charles">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Jovial_Jeeves">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Portly_Polly">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Brutish_Brutus">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Flowery_Florence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Steely_Sven" to="Disturbed_Darius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Fancy_Fanny">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Smug_Smith">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Brave_Dave">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Filthy_Phil">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Sly_Fry">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Vile_Victor">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Merciful_Mary">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Dutiful_Diane">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Swindler_Sue">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Dashing_Deborah">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Portly_Polly">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Thrifty_Tracy">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Father_Felonius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Merry_Mark">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Brutish_Brutus">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Steely_Sven">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Stealthy_Sofia">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Flowery_Florence" to="Disturbed_Darius">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Regal_Regis">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Fancy_Fanny">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Smug_Smith">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Brave_Dave">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Rich_Ritchie">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Filthy_Phil">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Stitching_Sally">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Sly_Fry">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Pretty_Penelope">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Large_Marge">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Merciful_Mary">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Dutiful_Diane">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Eccentric_Elsa">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Creative_Carrie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Swindler_Sue">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Tipsy_Todd">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Grimy_Garrett">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Flirty_Fran">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Corrupt_Charles">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Dashing_Deborah">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Jovial_Jeeves">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Portly_Polly">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Thrifty_Tracy">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Pristine_Prudence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Father_Felonius">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Merry_Mark">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Brutish_Brutus">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Steely_Sven">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Flowery_Florence">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Stealthy_Sofia" to="Disturbed_Darius">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Regal_Regis">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Fancy_Fanny">
+			<relation Hates="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Brave_Dave">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Rich_Ritchie">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Filthy_Phil">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Sly_Fry">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Pretty_Penelope">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Vile_Victor">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Large_Marge">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Eccentric_Elsa">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Creative_Carrie">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Tipsy_Todd">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Flirty_Fran">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Corrupt_Charles">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Dashing_Deborah">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Jovial_Jeeves">
+			<relation Distrusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Father_Felonius">
+			<relation Friends="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Merry_Mark">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Steely_Sven">
+			<relation Trusts="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Flowery_Florence">
+			<relation Loves="Personality"/>
+		</connection>
+		<connection from="Disturbed_Darius" to="Stealthy_Sofia">
+			<relation Loves="Personality"/>
+		</connection>
+	</connections>
+</graph>

@@ -1,0 +1,1 @@
+<rule applyonce="true" name="Stolen_Gift" type="Rewrite_Rule"><socialcondition>Stolen_Gift_Social_Condition</socialcondition><storycondition>Stolen_Gift_Story_Condition</storycondition><storymodification>Stolen_Gift_Story_Modification</storymodification></rule>

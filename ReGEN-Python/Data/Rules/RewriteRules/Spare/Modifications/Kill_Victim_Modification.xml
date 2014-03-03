@@ -1,0 +1,1 @@
+<Modification><Method name="murder" self="Victim"><args><dict><dict_element key="ref" type="str" value="Player" /></dict></args></Method><Attribute key="alive" name="Victim" type="bool" value="False" /></Modification>

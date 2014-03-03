@@ -1,0 +1,42 @@
+<test name="One_Story_Test" save_output="True">
+	<socialgraph>Fantasy_World_Improved_Autogen</socialgraph>
+	<initializationrules>
+		<initializationrule>Give_Blackmail_Letter</initializationrule>
+		<initializationrule>Murder_Blackmailer</initializationrule>
+		<initializationrule>Assassinate</initializationrule>
+	</initializationrules>
+	<rewriterules>
+		<rewriterule>Ambush</rewriterule>
+		<rewriterule>Stealth_Kill</rewriterule>
+	</rewriterules>
+	<numstoriestogenerate>1</numstoriestogenerate>
+	<maxnumberofrewrites>5</maxnumberofrewrites>
+	<metricstooptimize>
+		<metric name="fights" weight="1" ></metric>
+		<metric name="repetitivity" weight="1"></metric>
+		<metric name="longest_path" weight="1"></metric>
+		<metric name="shortest_path" weight="-1"></metric>
+		<metric name="highest_cost" weight="-1"></metric>
+		<metric name="lowest_cost" weight="1"></metric>
+		<metric name="num_branches" weight="4"></metric>
+	</metricstooptimize>
+	<metricstoanalyze>
+		<metric name="longest_path"></metric>
+		<metric name="shortest_path"></metric>
+		<metric name="highest_cost"></metric>
+		<metric name="lowest_cost"></metric>
+		<metric name="attr_preconditions"></metric>
+		<metric name="edge_preconditions"></metric>
+		<metric name="number_of_nodes"></metric>
+		<metric name="number_of_edges"></metric>
+		<metric name="num_branches"></metric>
+		<metric name="fights"></metric>
+		<metric name="repetition"></metric>
+		<metric name="unique_node_types"></metric>
+		<metric name="per_path_branch_metrics"></metric>
+		<metric name="average_cost"></metric>
+		<metric name="average_path"></metric>
+		<metric name="per_path_encounter_metrics"></metric>
+		<metric name="per_path_uniqueness_metrics"></metric>
+		<metric name="repetitivity"></metric></metricstoanalyze>
+</test>

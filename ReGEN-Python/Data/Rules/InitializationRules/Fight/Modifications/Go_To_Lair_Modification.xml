@@ -1,0 +1,1 @@
+<Modification><Method name="move_player_to_node" self="Player"><args><dict><dict_element key="ref" type="str" value="Monster" /></dict></args></Method></Modification>

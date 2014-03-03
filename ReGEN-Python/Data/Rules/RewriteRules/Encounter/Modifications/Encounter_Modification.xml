@@ -1,0 +1,1 @@
+<Modification><Method name="killed_enemy" self="Player"><args><dict><dict_element key="ref" type="str" value="Monster_" /></dict></args></Method></Modification>

@@ -1,0 +1,1 @@
+<rule name="Spy" type="Initialization_Rule"><socialcondition>Spy_Social_Condition</socialcondition><storymodification>Spy_Story_Modification</storymodification></rule>

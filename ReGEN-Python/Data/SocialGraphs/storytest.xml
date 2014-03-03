@@ -1,0 +1,20 @@
+<graph name="Test_Story" type="Story_Graph">
+	<nodes>
+		<node name="Murder_Innocent">
+			<attr name="Number_of_Stabs" type="int">
+				<value>3</value>
+			</attr>
+			<nodetype>Murder</nodetype>
+			<target>Filthy_Phil</target>
+		</node>
+		<node name="Return_Home">
+			<nodetype>Return</nodetype>
+			<target>Main_Town</target>
+		</node>
+	</nodes>
+	<connections>
+		<connection from="Murder_Innocent" to="Return_Home">
+			<relation none="none" />
+		</connection>
+	</connections>
+</graph>

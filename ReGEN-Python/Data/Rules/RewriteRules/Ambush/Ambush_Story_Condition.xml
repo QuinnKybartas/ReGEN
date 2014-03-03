@@ -1,0 +1,1 @@
+<graph name="Ambush_Story_Condition" type="Story_Graph"><nodes><node modification="None" name="Kill_Victim"><target>Recipient</target><nodetype>Murder</nodetype></node></nodes><connections /></graph>

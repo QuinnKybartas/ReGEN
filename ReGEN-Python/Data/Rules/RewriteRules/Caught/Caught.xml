@@ -1,0 +1,1 @@
+<rule applyonce="true" name="Caught" type="Rewrite_Rule"><socialcondition>Caught_Social_Condition</socialcondition><storycondition>Caught_Story_Condition</storycondition><storymodification>Caught_Story_Modification</storymodification></rule>

@@ -1,0 +1,1 @@
+<rule name="Forge_Ally" type="Initialization_Rule"><socialcondition>Forge_Ally_Social_Condition</socialcondition><storymodification>Forge_Ally_Story_Modification</storymodification></rule>

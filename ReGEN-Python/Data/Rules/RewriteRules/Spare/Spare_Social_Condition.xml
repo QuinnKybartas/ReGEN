@@ -1,0 +1,1 @@
+<graph name="Spare_Social_Condition" type="Social_Graph"><nodes><node name="Victim"><attr name="alive" type="bool"><value>True</value></attr></node><node name="Lover"><attr name="alive" type="bool"><value>True</value></attr></node></nodes><connections><connection from="Lover" to="Victim"><relation Loves="N/A" /></connection></connections></graph>

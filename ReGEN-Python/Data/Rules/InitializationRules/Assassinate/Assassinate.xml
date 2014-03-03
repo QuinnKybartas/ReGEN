@@ -1,0 +1,1 @@
+<rule name="Assassinate" type="Initialization_Rule"><socialcondition>Assassinate_Social_Condition</socialcondition><storymodification>Assassinate_Story_Modification</storymodification></rule>

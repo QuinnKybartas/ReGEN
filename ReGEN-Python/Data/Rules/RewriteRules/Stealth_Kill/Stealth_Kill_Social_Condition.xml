@@ -1,0 +1,1 @@
+<graph name="StKill_Condition" type="Social_Graph"><nodes><node name="Monster"><attr name="type" type="str"><value>Enemy</value></attr></node></nodes><connections /></graph>
